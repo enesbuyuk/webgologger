@@ -9,4 +9,4 @@ go run webgologger.go
 ```
 
 ## SETTINGS
-Default port is 8080, if you want change this you must defaultPort varible's value change (in weblogger.go line 89)
+Default port is 8080, if you want change this you must "defaultPort" varible's value change from weblogger.go file's line 89.
