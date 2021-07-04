@@ -1,7 +1,7 @@
 # WebGoLogger
 Golang logger for web servers
 
-##USAGE
+## USAGE
 windows & linux
 
 ```bash
